@@ -1,9 +1,9 @@
 body{
 
-  background-image: url(https://s-media-cache-ak0.pinimg.com/originals/cf/e1/f9/cfe1f93ff2b963f2251e49eab486cb38.jpg)
+  background-image: url(https://static.decalgirl.com/assets/designs/large/wht-marble.jpg)
 }
 #div1{
-    background-color: #E5F04C;
+    background-color: aqua;
     text-align: center;
     color: white;
 }
@@ -26,5 +26,4 @@ a:hover {
 li,p{
   color: white;
   text-align: left;
-  background-color: #E5F04C;
 }
