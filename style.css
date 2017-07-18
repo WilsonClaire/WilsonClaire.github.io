@@ -1,0 +1,29 @@
+body{
+
+  background-image: url(http://images.naldzgraphics.net/2012/02/6-dots-pattern.jpg)
+}
+#div1{
+    background-color: teal;
+    text-align: center;
+    color: white;
+}
+
+#div2{
+  background: white;
+}
+
+/* unvisited link */
+a:link {
+   color: grey;
+   text-align: center;
+   text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+   color: black;
+}
+li,p{
+  color: teal;
+  text-align: left;
+}
