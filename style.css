@@ -1,9 +1,9 @@
 body{
 
-  background-image: url(http://images.naldzgraphics.net/2012/02/6-dots-pattern.jpg)
+  background-image: url(https://s-media-cache-ak0.pinimg.com/originals/cf/e1/f9/cfe1f93ff2b963f2251e49eab486cb38.jpg)
 }
 #div1{
-    background-color: teal;
+    background-color: #E5F04C;
     text-align: center;
     color: white;
 }
@@ -11,7 +11,7 @@ body{
 #div2{
   background: white;
 }
-
+S=
 /* unvisited link */
 a:link {
    color: grey;
@@ -24,6 +24,7 @@ a:hover {
    color: black;
 }
 li,p{
-  color: teal;
+  color: white;
   text-align: left;
+  background-color: #E5F04C;
 }
