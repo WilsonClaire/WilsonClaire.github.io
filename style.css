@@ -23,7 +23,46 @@ a:link {
 a:hover {
    color: black;
 }
-li,p{
+p,h2{
   color: grey;
   text-align: left;
+}
+
+h3{
+  color: grey;
+  text-align: right;
+}
+#img1{
+   float: left;
+}
+h1{
+ color: white;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #95FFF2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: grey;
+}
+
+#li{
+  color: grey;
 }
